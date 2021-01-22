@@ -8,8 +8,8 @@ I am Anh Quach. People usually call me Tony. I am currently an DevOps Engineer f
 [![YAML](https://img.shields.io/badge/-YAML-47a248?style=flat-square)](https://www.gnu.org/software/bash/)
 
 ### ⚔️ Framework
-[![Laravel](https://img.shields.io/badge/-Laravel-ff2d20?style=flat-square&logo=laravel&logoColor=white)](https://www.gnu.org/software/bash/)
-[![Wordpress](https://img.shields.io/badge/-Wordpress-135e96?style=flat-square&logo=wordpress)](https://www.gnu.org/software/bash/)
+[![Laravel](https://img.shields.io/badge/-Laravel-ff2d20?style=flat-square&logo=laravel&logoColor=white)](https://laravel.com/)
+[![Wordpress](https://img.shields.io/badge/-Wordpress-135e96?style=flat-square&logo=wordpress)](https://wordpress.com/)
 
 ### 🚀 Infrastructure as Code
 [![Terraform](https://img.shields.io/badge/-Terraform-623ce3?style=flat-square&logo=terraform&logoColor=white)](https://www.terraform.io/)
@@ -22,7 +22,7 @@ I am Anh Quach. People usually call me Tony. I am currently an DevOps Engineer f
 [![Kubernetes](https://img.shields.io/badge/-Kubernetes-303030?style=flat-square&logo=Kubernetes)](https://kubernetes.io/)
 
 ### 🔰 CI-CD
-[![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078d3?style=flat-square&logo=azure-devops&logoColor=white)](https://www.azure.com/)
+[![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078d3?style=flat-square&logo=azure-devops&logoColor=white)](https://www.dev.azure.com/)
 [![Jenkins](https://img.shields.io/badge/-Jenkins-d33833?style=flat-square&logo=jenkins&logoColor=white)](https://www.jenkins.io/)
 [![CircleCI](https://img.shields.io/badge/-CircleCI-000?style=flat-square&logo=circleci)](https://circleci.com/)
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)](https://git-scm.com/)
@@ -32,8 +32,22 @@ I am Anh Quach. People usually call me Tony. I am currently an DevOps Engineer f
 ### 📈 Monitoring Solutions
 [![Grafana](https://img.shields.io/badge/-Grafana-000?style=flat-square&logo=grafana)](https://grafana.com/)
 [![Prometheus](https://img.shields.io/badge/-Prometheus-222222?style=flat-square&logo=prometheus)](https://prometheus.io/)
-[![ZABBIX](https://img.shields.io/badge/-ZABBIX-d40000?style=flat-square&logo=zabbix)](https://prometheus.io/)
+[![ZABBIX](https://img.shields.io/badge/-ZABBIX-d40000?style=flat-square&logo=zabbix)](https://www.zabbix.com/)
 
+### 📧 How to contact me ?
+[![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/sheid1309)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/tuananhquach/)
+[![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=for-the-badge&logo=Gmail&logoColor=ffffff)](mailto:tuananh.qaa@gmail.com)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877f2.svg?style=for-the-badge&logo=facebook&logoColor=ffffff)](https://www.facebook.com/tuananh.qaa/)
+
+<br>
+<details>
+<summary>Click to view my GitHub Stats</summary>
+<p>
+    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sheid1309&show_icons=true">
+    <br>
+    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheid1309"
+</p></details> 
 <!--
 **sheid1309/sheid1309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
