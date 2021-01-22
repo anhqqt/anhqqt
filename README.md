@@ -2,9 +2,14 @@
 
 I am Anh Quach. People usually call me Tony. I am currently an DevOps Engineer from <img src="https://image.flaticon.com/icons/svg/330/330465.svg" width="13"/> **Ho Chi Minh City - Viet Nam**. 
 
-### 💻 Language I use
+### 💻 Languages
 [![PHP](https://img.shields.io/badge/-PHP-46a2f1?style=flat-square&logo=php&logoColor=white)](https://www.ansible.com/)
 [![Bash Shell](https://img.shields.io/badge/-Bash%20Shell-1f425f?style=flat-square&logo=GNU-bash&logoColor=white)](https://www.gnu.org/software/bash/)
+[![YAML](https://img.shields.io/badge/-YAML-47a248?style=flat-square)](https://www.gnu.org/software/bash/)
+
+### ⚔️ Framework
+[![Laravel](https://img.shields.io/badge/-Laravel-ff2d20?style=flat-square&logo=laravel&logoColor=white)](https://www.gnu.org/software/bash/)
+[![Wordpress](https://img.shields.io/badge/-Wordpress-135e96?style=flat-square&logo=wordpress)](https://www.gnu.org/software/bash/)
 
 ### 🚀 Infrastructure as Code
 [![Terraform](https://img.shields.io/badge/-Terraform-623ce3?style=flat-square&logo=terraform&logoColor=white)](https://www.terraform.io/)
@@ -16,7 +21,19 @@ I am Anh Quach. People usually call me Tony. I am currently an DevOps Engineer f
 [![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Kubernetes](https://img.shields.io/badge/-Kubernetes-303030?style=flat-square&logo=Kubernetes)](https://kubernetes.io/)
 
-### 📈 Click to open my GitHub Stats
+### 🔰 CI-CD
+[![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078d3?style=flat-square&logo=azure-devops&logoColor=white)](https://www.azure.com/)
+[![Jenkins](https://img.shields.io/badge/-Jenkins-d33833?style=flat-square&logo=jenkins&logoColor=white)](https://www.jenkins.io/)
+[![CircleCI](https://img.shields.io/badge/-CircleCI-000?style=flat-square&logo=circleci)](https://circleci.com/)
+[![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/)
+[![GitLab](https://img.shields.io/badge/-GitLab-292961?style=flat-square&logo=gitlab)](https://gitlab.com/)
+
+### 📈 Monitoring Solutions
+[![Grafana](https://img.shields.io/badge/-Grafana-000?style=flat-square&logo=grafana)](https://grafana.com/)
+[![Prometheus](https://img.shields.io/badge/-Prometheus-222222?style=flat-square&logo=prometheus)](https://prometheus.io/)
+[![ZABBIX](https://img.shields.io/badge/-ZABBIX-d40000?style=flat-square&logo=zabbix)](https://prometheus.io/)
+
 <!--
 **sheid1309/sheid1309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
