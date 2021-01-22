@@ -45,7 +45,7 @@ I am Anh Quach. People usually call me Tony. I am currently an DevOps Engineer f
 
 <br>
 <details>
-<summary>Click to view my GitHub Stats</summary>
+    <summary><b>Click to view my GitHub Stats</b></summary>
 <br>
 <p>
     <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sheid1309&show_icons=true">
