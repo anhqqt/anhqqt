@@ -11,8 +11,10 @@ I am Anh Quach. People usually call me Tony. I am currently an DevOps Engineer f
 [![Ansible](https://img.shields.io/badge/-Ansible-000000?style=flat-square&logo=ansible&logoColor=white)](https://www.ansible.com/)
 
 ### ⚡ Technology
-[![Azure](https://img.shields.io/badge/-Azure-0078d3?style=flat-square&logo=azure-devops&logoColor=white)](https://www.azure.com/)
+[![Azure](https://img.shields.io/badge/-Microsoft%20Azure-0078d3?style=flat-square&logo=microsoft-azure&logoColor=white)](https://www.azure.com/)
 [![AWS](https://img.shields.io/badge/-Amazon%20AWS-232f3e?style=flat-square&logo=amazon-aws&logoColor=ff9900)](https://www.aws.amazon.com/)
+[![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Kubernetes](https://img.shields.io/badge/-Kubernetes-303030?style=flat-square&logo=Kubernetes)](https://kubernetes.io/)
 
 ### 📈 Click to open my GitHub Stats
 <!--
