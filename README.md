@@ -1,7 +1,6 @@
 # <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" width="30"/> Hello !! Nice to meet you <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" width="30"/>
 
-I am Anh Quach. People usually call me Tony. I am currently an DevOps Engineer from ![image](https://user-images.githubusercontent.com/61163704/138750042-90005a32-75a9-48a7-9dc8-a0ec70b0b864.png)
- **Ho Chi Minh City - Viet Nam**. 
+I am Anh Quach. People usually call me Tony. I am currently an DevOps Engineer from <img src="https://cdn-icons-png.flaticon.com/512/939/939633.png" width="13"/>  **Ho Chi Minh City - Viet Nam**. 
 
 ### 💻 Languages
 [![PHP](https://img.shields.io/badge/-PHP-46a2f1?style=flat-square&logo=php&logoColor=white)](https://www.ansible.com/)
