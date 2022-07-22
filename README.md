@@ -2,15 +2,6 @@
 
 I am Anh Quach. People usually call me Tony. I am currently an DevOps Engineer from <img src="https://cdn-icons-png.flaticon.com/512/939/939633.png" width="13"/>  **Ho Chi Minh City - Viet Nam**. 
 
-### 💻 Languages
-[![PHP](https://img.shields.io/badge/-PHP-46a2f1?style=flat-square&logo=php&logoColor=white)](https://www.ansible.com/)
-[![Bash Shell](https://img.shields.io/badge/-Bash%20Shell-1f425f?style=flat-square&logo=GNU-bash&logoColor=white)](https://www.gnu.org/software/bash/)
-[![YAML](https://img.shields.io/badge/-YAML-47a248?style=flat-square)](https://www.gnu.org/software/bash/)
-
-### ⚔️ Framework
-[![Laravel](https://img.shields.io/badge/-Laravel-ff2d20?style=flat-square&logo=laravel&logoColor=white)](https://laravel.com/)
-[![Wordpress](https://img.shields.io/badge/-Wordpress-135e96?style=flat-square&logo=wordpress)](https://wordpress.com/)
-
 ### 🚀 Infrastructure as Code
 [![Terraform](https://img.shields.io/badge/-Terraform-623ce3?style=flat-square&logo=terraform&logoColor=white)](https://www.terraform.io/)
 [![Ansible](https://img.shields.io/badge/-Ansible-000000?style=flat-square&logo=ansible&logoColor=white)](https://www.ansible.com/)
@@ -33,6 +24,15 @@ I am Anh Quach. People usually call me Tony. I am currently an DevOps Engineer f
 [![Grafana](https://img.shields.io/badge/-Grafana-000?style=flat-square&logo=grafana)](https://grafana.com/)
 [![Prometheus](https://img.shields.io/badge/-Prometheus-222222?style=flat-square&logo=prometheus)](https://prometheus.io/)
 [![ZABBIX](https://img.shields.io/badge/-ZABBIX-d40000?style=flat-square&logo=zabbix)](https://www.zabbix.com/)
+
+### 💻 Languages
+[![PHP](https://img.shields.io/badge/-PHP-46a2f1?style=flat-square&logo=php&logoColor=white)](https://www.ansible.com/)
+[![Bash Shell](https://img.shields.io/badge/-Bash%20Shell-1f425f?style=flat-square&logo=GNU-bash&logoColor=white)](https://www.gnu.org/software/bash/)
+[![YAML](https://img.shields.io/badge/-YAML-47a248?style=flat-square)](https://www.gnu.org/software/bash/)
+
+### ⚔️ Framework
+[![Laravel](https://img.shields.io/badge/-Laravel-ff2d20?style=flat-square&logo=laravel&logoColor=white)](https://laravel.com/)
+[![Wordpress](https://img.shields.io/badge/-Wordpress-135e96?style=flat-square&logo=wordpress)](https://wordpress.com/)
 
 ### 📧 How to contact me ?
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/sheid1309)
