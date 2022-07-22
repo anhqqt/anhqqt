@@ -15,7 +15,8 @@ I am Anh Quach. People usually call me Tony. I am currently an DevOps Engineer f
 ### 🔰 CI-CD
 [![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078d3?style=flat-square&logo=azure-devops&logoColor=white)](https://www.dev.azure.com/)
 [![Jenkins](https://img.shields.io/badge/-Jenkins-d33833?style=flat-square&logo=jenkins&logoColor=white)](https://www.jenkins.io/)
-[![CircleCI](https://img.shields.io/badge/-CircleCI-000?style=flat-square&logo=circleci)](https://circleci.com/)
+
+### ⚓ Source Control
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/)
 [![GitLab](https://img.shields.io/badge/-GitLab-292961?style=flat-square&logo=gitlab)](https://gitlab.com/)
@@ -40,7 +41,7 @@ I am Anh Quach. People usually call me Tony. I am currently an DevOps Engineer f
 [![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=for-the-badge&logo=Gmail&logoColor=ffffff)](mailto:tuananh.qaa@gmail.com)
 [![Facebook](https://img.shields.io/badge/-Facebook-1877f2.svg?style=for-the-badge&logo=facebook&logoColor=ffffff)](https://www.facebook.com/tuananh.qaa/)
 
-### ♥️♥️ Việt Nam đẹp lắm tôi ơi !!! ♥️♥️
+<!-- ### ♥️♥️ Việt Nam đẹp lắm tôi ơi !!! ♥️♥️
 <img alt = "Vietnam 1" width="300" src="https://toptour.com.vn/wp-content/uploads/2019/08/sapa-tms-travel.jpg"> <img alt = "Vietnam 1" width="300" src="https://cdn.baohatinh.vn/desktop/news/1834/137d4072501t4057l6-00640081hdrpano.jpg">
 
 <br>
@@ -52,7 +53,7 @@ I am Anh Quach. People usually call me Tony. I am currently an DevOps Engineer f
     <br>
     <br>
     <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheid1309">
-</p></details> 
+</p></details>  -->
 <!--
 **sheid1309/sheid1309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
