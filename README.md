@@ -1,6 +1,6 @@
 # <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" width="30"/> Hello !! Nice to meet you <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" width="30"/>
 
-I am Anh Quach. People usually call me Tony. I am currently a DevOps Engineer from <img src="https://cdn-icons-png.flaticon.com/512/939/939633.png" width="13"/>  **Ho Chi Minh City - Viet Nam**. 
+DevOps by day, photographer at heart. I’m Anh “Tony” Quach from <img src="https://cdn-icons-png.flaticon.com/512/939/939633.png" width="13"/>  **Ho Chi Minh City - Viet Nam**. 
 
 ![screenshot](01.jpg)
 
