@@ -11,7 +11,7 @@ I am Anh Quach. People usually call me Tony. I am currently a DevOps Engineer fr
 <!-- ### ♥️♥️ Việt Nam đẹp lắm tôi ơi !!! ♥️♥️
 <img alt = "Vietnam 1" width="300" src="https://toptour.com.vn/wp-content/uploads/2019/08/sapa-tms-travel.jpg"> <img alt = "Vietnam 1" width="300" src="https://cdn.baohatinh.vn/desktop/news/1834/137d4072501t4057l6-00640081hdrpano.jpg">
 
-![screenshot](images/01.jpg)
+![screenshot](01.jpg)
 
 <br>
 <details>
