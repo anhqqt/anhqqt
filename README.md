@@ -2,6 +2,8 @@
 
 I am Anh Quach. People usually call me Tony. I am currently a DevOps Engineer from <img src="https://cdn-icons-png.flaticon.com/512/939/939633.png" width="13"/>  **Ho Chi Minh City - Viet Nam**. 
 
+![screenshot](01.jpg)
+
 ### 📧 How to contact me ?
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/sheid1309)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/tuananhquach/)
@@ -11,7 +13,6 @@ I am Anh Quach. People usually call me Tony. I am currently a DevOps Engineer fr
 <!-- ### ♥️♥️ Việt Nam đẹp lắm tôi ơi !!! ♥️♥️
 <img alt = "Vietnam 1" width="300" src="https://toptour.com.vn/wp-content/uploads/2019/08/sapa-tms-travel.jpg"> <img alt = "Vietnam 1" width="300" src="https://cdn.baohatinh.vn/desktop/news/1834/137d4072501t4057l6-00640081hdrpano.jpg">
 
-![screenshot](01.jpg)
 
 <br>
 <details>
